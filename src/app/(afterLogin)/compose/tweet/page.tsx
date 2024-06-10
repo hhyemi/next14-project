@@ -1,7 +1,7 @@
-export default function Page() {
-    return (
-      <main>
-        게시글
-      </main>
-    )
-  }
+export default function Home() {
+  return (
+    <main>
+      게시글
+    </main>
+  )
+}
